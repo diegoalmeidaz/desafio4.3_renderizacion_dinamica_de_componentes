@@ -1,3 +1,14 @@
+# Project Review: An excercise to implement dinamic component renderization.
+
+# View the project online: 
+https://verdant-alpaca-b92d97.netlify.app
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
